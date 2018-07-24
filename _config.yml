@@ -16,16 +16,18 @@ roles:
  - start: 2006
    end: 2008
    title: Software Developer
-   company: LexisNexis, Risk Solutions
+   employer: LexisNexis, Risk Solutions
 
 #Education is required
 education:
- - Dates: 2002-2006
-   Degree: B.S.
+ - start: 2002-2006
+   end: 2006
+   degree: B.S.
    School: University of Maryland
- - Dates: 2008-2013
-   Degree: Ph.D.
-   School: Johns Hopkins University
+ - start 2008
+   end: 2013
+   degree: Ph.D.
+   school: Johns Hopkins University
 
 #This section is optional (as is the image link below)
 coursera:
