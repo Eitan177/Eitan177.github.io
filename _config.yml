@@ -34,45 +34,75 @@ education:
    school: University of Colorado
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
+honors:
+    - year: 2002
+      honor: Gemstone Honors Program
+      school: University of Maryland
+    -  year: 2006
+      honor: Gemstone Outstanding Thesis
+      school: University of Maryland
+    - year: 2016
+      honor: Research Track
+      school: University of Colorado
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+Presentations:
+1. Halper-Stromberg, E. Visualization of Low Confidence Sequencing Variants. National Institute of Standards and Technology, Genome in a Bottle Consortium.Gaithersburg, MD 2012.
+2. Halper-Stromberg, E. Assessing Next Generation Sequencing Alignments: a reView. 6th Annual Young Investigator’s Symposium on Genomics and Bioinformatics. Baltimore, MD 2012.
+3. Halper-Stromberg, E. Detecting Structural Variants and Copy Number Changes in the Human Genome: Where are we still making mistakes? Johns Hopkins School of Medicine Genomics Seminar Series. Baltimore, MD 2013
+4. Halper-Stromberg, E. Creating Tools to Detect Genomic Structural Variants: Moving From Reasonable Ad-hoc Approaches to Even Better Systematic Ones. University of Colorado Postdoctoral Seminar Series. Aurora, CO 2013.
+5. Halper-Stromberg, E. Genetic Association Testing in COPD Using Visual Assessment of Chest CT Images. National Library of Medicine, Informatics Training Conference. Bethesda, MD 2015.
+6. Halper-Stromberg, E. Circulating Lymphocyte Sub-Populations Define Molecular Subtypes of COPD. Center for Genes, Environment, and Health. Denver, CO 2017.
+7. Manning, Aaron, Halper-Stromberg, E, Cunningham, Maureen. Reversible pulmonary hypertension: A surprising case of scurvy and its complications. American College of Physicians Colorado Chapter Meeting. Colorado Springs, CO 2018.
+8. Halper-Stromberg, E. Technology in Pathology: Frontiers in Image Analysis. Pathology Dept, University of Colorado. Aurora, CO, 2018.
+9. Halper-Stromberg, E. Sub-I Quality Improvement Project: Putting Labs on Signout At the Denver VA. VA Hospital Noon Conference. Denver, CO, 2018.
 
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/258813/rhinds
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
-#Mobile apps section is optional
-apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+Posters:
 
+1. Halper-Stromberg, E, Leach, Sonia. Visualization and Probability-Based Scoring of Structural Variants.
+Butcher Seed Grant Symposium. Boulder, CO 2013.
+2. Halper-Stromberg, E, Bowler, Russell. Circulating Lymphocyte Sub-Populations Define Molecular
+Subtypes of COPD. University of Colorado Annual Student Research Forum. Aurora, CO 2016.
+3. Halper-Stromberg, E, Stewart, Jane L., Beck, Daniel. Subclavian artery aneurysm complicating regional anesthesia for finger debridement and amputation: A case study. The World Congress on Regional Anesthesia and Pain Medicine. New York City, NY 2018.
+
+#Mobile apps section is optional
+software:
+ - name: ArrayTV
+   url: https://bioconductor.org/packages/release/bioc/html/ArrayTV.html
+   description: GC correction in microarrays
+ - name: SeqView
+   url: https://github.com/Eitan177/targetSeqView
+   descriptions: Realigning and visualizing next generation sequencing short reads
+
+grants: 
+1. Butcher Seed Grant to fund collaborative and potentially transformative bioscience research. Char- acterizing Structural Variants in a Mouse Model of Alcohol Dependence. March 2014, Lead Investigator. $2,000.
+
+peerreview:
+- date: 2014
+  publication: Nucleic Acids Research Web Server Issue
+- date: 2014
+  publication: Bioinformatics
+- date: 2015
+  publication: BMC Bioinformatics
+
+organization:
+- date: 2014 - present
+  name: COPDGene Consortium Investigator
+  - date: 2014 - 2016
+  name: American Thoracic Society
+  - date: 2017 - present
+  name: American College of Physicians
+  - date: 2018 - present
+  name: Pathology Student Interest Group Treasurer
+
+websites:
+  - descriptions: Formatting daily Labs in CPRS
+  - url: https://eitanhs.shinyapps.io/shin/
+  
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
 1. Halper-Stromberg E, Frelin L, Ruczinski I, Scharpf R, Jie C, Carvalho B, Hao H, Hetrick K, Jedlicka A, Dziedzic A, Doheny K, Scott AF, Baylin S, Pevsner J, Spencer F, Irizarry RA: Performance assessment of copy number microarray platforms using a spike-in experiment. Bioinformatics 2011, 27:1052–1060.
