@@ -13,10 +13,10 @@ primarylinks:
 
 #Work experience is required
 roles:
- - title: Software Developer
-   start: 2006
+ - start: 2006
    end: 2008
-   employer: LexisNexis, Risk Solutions
+   title: Software Developer
+   company: LexisNexis, Risk Solutions
 
 #Education is required
 education:
