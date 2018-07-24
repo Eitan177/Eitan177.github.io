@@ -28,6 +28,10 @@ education:
    end: 2013
    degree: Ph.D.
    school: Johns Hopkins University
+ - start 2015
+   end: present
+   degree: M.D.
+   school: University of Colorado
 
 #This section is optional (as is the image link below)
 coursera:
