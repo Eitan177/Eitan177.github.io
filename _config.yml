@@ -20,10 +20,10 @@ roles:
 
 #Education is required
 education:
- - start: 2002-2006
+ - start: 2002
    end: 2006
    degree: B.S.
-   School: University of Maryland
+   school: University of Maryland
  - start 2008
    end: 2013
    degree: Ph.D.
