@@ -8,8 +8,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Google Scholar
-   url: https://scholar.google.com/citations?user=p5P8qQUAAAAJ&hl=en
+ - title: GitHub
+   url: https://github.com/Eitan177
 
 #Work experience is required
 roles:

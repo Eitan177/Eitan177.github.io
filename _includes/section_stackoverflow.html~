@@ -1,5 +1,5 @@
 {% if site.stackoverflow %}
-
+	<div class="rounded_panel txt_lightgrey">
 
 
 
@@ -11,6 +11,6 @@
 		
 				
 
-
+		</div>
 	</div>
 {% endif %}

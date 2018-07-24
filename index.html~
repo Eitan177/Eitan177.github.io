@@ -9,7 +9,6 @@ layout: default
 		{% include section_education.html %}
 		{% include section_honors.html %}
 		{% include section_presentations.html %}
-		{% include section_posters.html %}
 		{% include section_software.html %}
 		{% include section_grants.html %}
 		{% include section_peerreview.html %}
