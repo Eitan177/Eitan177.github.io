@@ -29,9 +29,13 @@ education:
    degree: Ph.D.
    school: Johns Hopkins University
  - start: 2015
-   end: present
+   end: 2019
    degree: M.D.
    school: University of Colorado
+ - start: 2019
+   end: present
+   degree: Clinical Pathology
+   school: Johns Hopkins University
 
 #This section is optional (as is the image link below)
 honors:
@@ -44,6 +48,10 @@ honors:
  - year: 2016
    honor: Research Track
    school: University of Colorado
+ - year: 2019
+   honor: Informatics Track
+   school: Johns Hopkins University 
+   
 #List of interesting Github repo/projects to include - optional
 presentations: |
   1. Halper-Stromberg, E. Visualization of Low Confidence Sequencing Variants. National Institute of Standards and Technology, Genome in a Bottle Consortium.Gaithersburg, MD 2012.<br><br>
@@ -55,6 +63,10 @@ presentations: |
   7. Manning, Aaron, Halper-Stromberg, E, Cunningham, Maureen. Reversible pulmonary hypertension: A surprising case of scurvy and its complications. American College of Physicians Colorado Chapter Meeting. Colorado Springs, CO 2018.<br><br>
   8. Halper-Stromberg, E. Technology in Pathology: Frontiers in Image Analysis. Pathology Dept, University of Colorado. Aurora, CO, 2018.<br><br>
   9. Halper-Stromberg, E. Sub-I Quality Improvement Project: Putting Labs on Signout At the Denver VA. VA Hospital Noon Conference. Denver, CO, 2018.<br><br>
+  10.	Halper-Stromberg, E. Pathology Grand Rounds Short Topics: Single Drop of Blood Diagnostics. Johns Hopkins Hospital, Baltimore, MD, 2020<br><br>
+  11.	Halper-Stromberg, E. Xian, R. Haley, L, Lin, M. Glantz, M, Vogt, S, Ambinder, R, Gocke, C,Eshleman, J. McCall, C, Bettegowda, C, Epeldegui, M, Holdhoff, M. CloneRetriever: An Automated Algorithm to Identify Clonal Immunoglobulin Gene Rearrangements by Next-Generation Sequencing. Association for Molecular Pathology (15 Minute Talk and Poster). Virtual Conference, 2020<br><br>
+  12.	Halper-Stromberg, E. Pathology Grand Rounds Short Topics: RoopKund Lake. Johns Hopkins Hospital, Baltimore, MD, 2021<br><br>
+
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -65,7 +77,7 @@ posters:
   1. Halper-Stromberg, E, Leach, Sonia. Visualization and Probability-Based Scoring of Structural Variants. Butcher Seed Grant Symposium. Boulder, CO 2013.
   2. Halper-Stromberg, E, Bowler, Russell. Circulating Lymphocyte Sub-Populations Define Molecular Subtypes of COPD. University of Colorado Annual Student Research Forum. Aurora, CO 2016.
   3. Halper-Stromberg, E, Stewart, Jane L., Beck, Daniel. Subclavian artery aneurysm complicating regional anesthesia for finger debridement and amputation, A case study. The World Congress on Regional Anesthesia and Pain Medicine. New York City, NY 2018.
-
+  4. Halper-Stromberg, E. Xian, R. Haley, L, Lin, M. Glantz, M, Vogt, S, Ambinder, R, Gocke, C,Eshleman, J. McCall, C, Bettegowda, C, Epeldegui, M, Holdhoff, M. CloneRetriever: An Automated Algorithm to Identify Clonal Immunoglobulin Gene Rearrangements by Next-Generation Sequencing. Association for Molecular Pathology (15 Minute Talk and Poster). Virtual Conference, 2020.
 #Mobile apps section is optional
 software:
  - name: ArrayTV
@@ -91,18 +103,25 @@ organization:
    name: COPDGene Consortium Investigator
  - date: 2014 - 2016
    name: American Thoracic Society
- - date: 2017 - present
+ - date: 2017 - 2018
    name: American College of Physicians
- - date: 2018 - present
+ - date: 2018	- 2019
    name: Pathology Student Interest Group Treasurer
+ - date: 2019	0	2019 - Present
+   name: SPIROMICS Consortium Trainee Investigator
+ - date: 2020	- Present
+   name: Present	Association for Molecular Pathologists Trainee Member
+		
+
 
 websites:
   - descriptions: Formatting daily Labs in CPRS
     url: https://eitanhs.shinyapps.io/shin/
-  
+  - description Suspect Results Patterns in Chemistry	
+    url: https://ehalperstromberg.shinyapps.io/SuspectChemMapper/  
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
- 1. Halper-Stromberg E, Frelin L, Ruczinski I, Scharpf R, Jie C, Carvalho B, Hao H, Hetrick K, Jedlicka A, Dziedzic A, Doheny K, Scott AF, Baylin S, Pevsner J, Spencer F, Irizarry RA: Performance assessment of copy number microarray platforms using a spike-in experiment. Bioinformatics 2011, 27:1052–1060.<br><br>
+ 1. <b>Halper-Stromberg<b> E, Frelin L, Ruczinski I, Scharpf R, Jie C, Carvalho B, Hao H, Hetrick K, Jedlicka A, Dziedzic A, Doheny K, Scott AF, Baylin S, Pevsner J, Spencer F, Irizarry RA: Performance assessment of copy number microarray platforms using a spike-in experiment. Bioinformatics 2011, 27:1052–1060.<br><br>
  2. Halper-Stromberg E, Steranka J, Giraldo-Castillo N, Fuller T, Desiderio S, Burns KH: Fine mapping of V(D)J recombinase mediated rearrangements in human lymphoid malignancies. BMC Genomics 2013, 14:565.<br><br>
  3. Wang R, Halper-Stromberg E, Szymanski-Pierce M, Bassett SS, Avramopoulos D: Genetic determi- nants of neuroglobin transcription. Neurogenetics 2014, 15:65–75.<br><br>
  4. Halper-Stromberg E, Steranka J, Burns KH, Sabunciyan S, Irizarry RA: Visualization and probability- based scoring of structural variants within repetitive sequences. Bioinformatics 2014, 30:1514–1521.<br><br>
@@ -114,4 +133,7 @@ additionalinfo: |
  10. Pollack RA, Jones RB, Pertea M, Bruner KM, Martin AR, Thomas AS, Capoferri AA, Beg SA, Huang S-H, Karandish S, Hao H, Halper-Stromberg E, Yong PC, Kovacs C, Benko E, Siliciano RF, Ho Y-C: Defective HIV-1 Proviruses Are Expressed and Can Be Recognized by Cytotoxic T Lymphocytes, which Shape the Proviral Landscape. Cell Host Microbe 2017, 21:494–506.e4.<br><br>
  11. Halper-Stromberg E, Yun JH, Parker MM, Tal Singer R, Gaggar A, Silverman EK, Leach S, Bowler RP, Castaldi PJ. Systemic Markers of Adaptive and Innate Immunity are Associated with COPD Severity and Spirometric Disease Progression. Am J Respir Cell Mol Biol 2017.rcmb:2017-0373OC.<br><br>
  12. Dietert, k, Tak, T, R, Knipe, Halper-Stromberg, E. April Highlights/Papers by Junior Investigators/NIH News. Am J of Respir Cell Mol Bio: 2018,58(4), p. iv<br><br>
+ 13.	Halper-Stromberg, E.; Gillenwater, L.; Cruickshank-Quinn, C.; O’Neal, W.K.; Reisdorph, N.; Petrache, I.; Zhuang, Y.; Labaki, W.W.; Curtis, J.L.; Wells, J.; Rennard, S.; Pratte, K.A.; Woodruff, P.; Stringer, K.A.; Kechris, K.; Bowler, R.P. Bronchoalveolar Lavage Fluid from COPD Patients Reveals More Compounds Associated with Disease than Matched Plasma. Metabolites 2019, 9, 157.
+ 14. Halper-Stromberg, E, Gallo, T, Champakanath, A, Taki, I, Rewers, M, Snell-Bergeon, J, Frohnert, B Shah, VN, Bone Mineral Density across the Lifespan in Patients with Type 1 Diabetes, The Journal of Clinical Endocrinology & Metabolism, Volume 105, Issue 3, March 2020, dgz153 
+ 15. Lucas A. Gillenwater, Katherine A. Pratte, Brian D. Hobbs, Michael H. Cho, Yonghua Zhuang, Eitan Halper-Stromberg, Charmion Cruickshank-Quinn, Nichole Reisdorph, Irina Petrache, Wassim W. Labaki, Wanda K. O'Neal, Victor E. Ortega, Dean P. Jones, Karan Uppal, Sean Jacobson, Gregory Michelotti, Christine H. Wendt, Katerina J. Kechris, and Russell P. Bowler. Plasma Metabolomic Signatures of Chronic Obstructive Pulmonary Disease and the Impact of Genetic Variants on Phenotype-Driven Modules. Network and Systems Medicine. Dec 2020.159-181 
 
