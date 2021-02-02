@@ -2,12 +2,15 @@
 title: Eitan Stromberg
 name: Eitan Stromberg
 
+
 # Build settings
 markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: Github
+   url: https://github.com/Eitan177
  - title: Google Scholar
    url: https://scholar.google.com/citations?user=p5P8qQUAAAAJ&hl=en
 
