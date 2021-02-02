@@ -105,13 +105,13 @@ organization:
    name: American Thoracic Society
  - date: 2017 - 2018
    name: American College of Physicians
- - date: 2018	- 2019
+ - date: 2018 - 2019
    name: Pathology Student Interest Group Treasurer
  - date: 2019	0	2019 - Present
    name: SPIROMICS Consortium Trainee Investigator
  - date: 2020 - Present
    name: Association for Molecular Pathologists Trainee Member
-		
+   
 websites:
   - descriptions: Formatting daily Labs in CPRS
     url: https://eitanhs.shinyapps.io/shin/
