@@ -20,6 +20,7 @@ roles:
  - start: 2013
    end: 2015
    title: Postdoctoral Fellow National Library of Medicine
+   employer: University of Colorado
 #Education is required
 education:
  - start: 2002
@@ -79,7 +80,7 @@ posters:
   1. Halper-Stromberg, E, Leach, Sonia. Visualization and Probability-Based Scoring of Structural Variants. Butcher Seed Grant Symposium. Boulder, CO 2013.
   2. Halper-Stromberg, E, Bowler, Russell. Circulating Lymphocyte Sub-Populations Define Molecular Subtypes of COPD. University of Colorado Annual Student Research Forum. Aurora, CO 2016.
   3. Halper-Stromberg, E, Stewart, Jane L., Beck, Daniel. Subclavian artery aneurysm complicating regional anesthesia for finger debridement and amputation, A case study. The World Congress on Regional Anesthesia and Pain Medicine. New York City, NY 2018
-  
+  4. Halper-Stromberg, E. Xian, R. Haley, L, Lin, M. Glantz, M, Vogt, S, Ambinder, R, Gocke, C,Eshleman, J. McCall, C, Bettegowda, C, Epeldegui, M, Holdhoff, M. CloneRetriever: An Automated Algorithm to Identify Clonal Immunoglobulin Gene Rearrangements by Next Generation Sequencing. Association for Molecular Pathology. Virtual Conference, 2020  
 #Mobile apps section is optional
 software:
  - name: ArrayTV
