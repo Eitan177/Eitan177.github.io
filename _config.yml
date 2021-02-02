@@ -110,11 +110,9 @@ organization:
    name: Pathology Student Interest Group Treasurer
  - date: 2019	0	2019 - Present
    name: SPIROMICS Consortium Trainee Investigator
- - date: 2020	- Present
-   name: Present	Association for Molecular Pathologists Trainee Member
+ - date: 2020 - Present
+   name: Association for Molecular Pathologists Trainee Member
 		
-
-
 websites:
   - descriptions: Formatting daily Labs in CPRS
     url: https://eitanhs.shinyapps.io/shin/
